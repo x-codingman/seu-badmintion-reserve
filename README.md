@@ -6,7 +6,7 @@ The executable can run on windows system. It can order the badminton court ***th
 
 You can run the executable anytime the server is open (8 am to 8 pm )
 
-You must have install the ***Chrome*** browser
+You must have installed the ***Chrome*** browser
 
 # Preparation
 
